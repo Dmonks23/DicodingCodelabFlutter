@@ -1,6 +1,6 @@
 # dicoding_codelab
 
-A new Flutter project.
+This is a project flutter following module of dicoding academy on "Learn to Make Flutter Apps for Beginners"
 
 ## Getting Started
 
