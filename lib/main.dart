@@ -1,4 +1,3 @@
-import 'package:dicoding_codelab/DetailScreen.dart';
 import 'package:dicoding_codelab/MainScreen.dart';
 import 'package:flutter/material.dart';
 
